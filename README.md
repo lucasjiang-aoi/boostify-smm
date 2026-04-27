@@ -20,23 +20,6 @@ Whether you're running your own SMM business or acting as a reseller via API pro
 
 ---
 
-## 🌐 Demo
-
-🔗 **Live Demo:**  
-https://smmbooster.mediarayek.com
-
-### Admin Access
-- Email: `admin@admin.com`  
-- Password: `admin123`  
-- Dashboard: https://smmbooster.mediarayek.com/admin/login  
-
-### User Access
-- Email: `user@user.com`  
-- Password: `user123`  
-- Dashboard: https://smmbooster.mediarayek.com/login  
-
----
-
 ## ⚙️ Requirements
 
 Ensure your server meets the following requirements:
